@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スイートシックスティーン",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-20T13:42:26.909207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイートシックスティーン",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_スイートシックスティーン_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スイートシックスティーン (instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_スイートシックスティーン_(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイートシックスティーン",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_スイートシックスティーン_≒JOY.txt"
+    }
+  ]
+}
